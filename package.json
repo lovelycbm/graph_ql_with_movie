@@ -1,11 +1,9 @@
 {
   "name": "gql",
   "version": "1.0.0",
-  "description": "moive api with graphql",
+  "description": "movie api with graphql",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "repository": "https://github.com/lovelycbm/graph_ql_with_movie.git",
+  "author": "lovelycbm <lovelycbm@naver.com>",
+  "license": "MIT"
 }
